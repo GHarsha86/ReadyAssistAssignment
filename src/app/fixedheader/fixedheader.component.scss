@@ -1,0 +1,20 @@
+.fixed-header {
+    background-color: yellow;
+    position: fixed;
+    height:80px;
+    width: 100% !important;
+    left: 0%;
+    top: 0%;
+}
+
+.menu {
+    margin-top: 20px;
+    float: right;
+    .subscribe-button {
+        margin-right:15px !important;
+    }
+    .list-icon {
+        margin-right: 10px !important;
+    }   
+}
+
